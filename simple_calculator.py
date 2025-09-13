@@ -12,6 +12,9 @@ def divide(x, y):
         return x / y
     else:
         return "Error! Division by zero."
+    
+def modulus(x, y):
+    return x % y
 
 
 print("Welcome to the Calculator! ✨")
@@ -34,6 +37,8 @@ while True:
             print("Error! Division by zero")
         else:
             print("Result : " , divide(x,y))
+    elif op=="%": 
+         print("Result : " , modulus(x,y))
     else:
         print("Invalid Operation")
     
