@@ -1,7 +1,7 @@
 # 🧮 Simple Calculator (Python)
 
 A beginner-friendly Python project that performs basic arithmetic operations:  
-**Addition, Subtraction, Multiplication, and Division.**
+**Addition, Subtraction, Multiplication,Division and Diagnol**
 
 ---
 
